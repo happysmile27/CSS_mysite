@@ -1,0 +1,48 @@
+body {
+    background-color: #eff7e1;
+    margin:  0;
+    text-align: center;
+    font-family: verdana, Arial, sans-serif;
+    }
+h1 {
+    font-size: 550%;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-family: Sacramento, cursive;
+
+}
+#start {
+    background-color: #e1f7f6;
+    position: relative;
+    padding: 20px
+    }
+
+.re {
+    text-decoration: underline;
+    font-size: 2rem;
+}
+.cloud{
+    position: relative;
+    left: 250px;
+}
+
+.mountain{
+    position: relative;
+    left: 200;
+}
+
+.panda{
+    height: 300px;
+}
+
+.kongfu{
+    height: 300px;
+}
+
+.bamboo{
+    height: 300px;
+}
+
+.contact{
+    padding-bottom:20px;
+}
